@@ -43,7 +43,7 @@ public:
 	}
 
 public:
-	const uint32_t VL_WIDTH = 1260;
+	const uint32_t VL_WIDTH = 860;
 	const uint32_t VL_HEIGHT = 640;
 	const char* VL_NAME = "Vulkan Billion Trangle";
 	std::string shaderPath;
