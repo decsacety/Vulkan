@@ -1,0 +1,6 @@
+obj/
+.vs/ 
+lib/
+solutions/
+*.pdb
+*.sln
